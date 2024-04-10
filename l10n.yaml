@@ -1,0 +1,8 @@
+arb-dir: lib/presentation/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.g.dart
+nullable-getter: false
+
+# The following 2 are for generating the localization in a convenient location
+output-dir: lib/presentation/l10n
+synthetic-package: false
